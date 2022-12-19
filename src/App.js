@@ -58,7 +58,7 @@ function App() {
         </Grid>
       </div>
 
-      <Model src={src} handleClose={handleClose} open={open} />
+      <Model src={source} handleClose={handleClose} open={open} />
       
     </div>
   );
